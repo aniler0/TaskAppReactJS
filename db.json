@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Kafede Arkadaşınla Buluş",
+      "day": "23 Şubat 14.25",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Alışverişe Çık",
+      "day": "18 Şubat 15.00",
+      "reminder": false
+    },
+    {
+      "text": "Maç İzle",
+      "day": "6 Şubat 19.00",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
